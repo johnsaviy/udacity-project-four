@@ -6,13 +6,13 @@
 # Step 1:
 # Create dockerpath
 # dockerpath=<your docker ID/path>
-dockerpath=oloruntobi/machine-learning-app 
+dockerpath=johnsavy/machine-learning-app 
 
 # Step 2:  
 # Authenticate & tag
 echo "Docker ID and Image: $dockerpath"
 
-docker login -u oloruntobi
+docker login -u johnsavy
 
 docker tag machine-learning-app $dockerpath:latest
 

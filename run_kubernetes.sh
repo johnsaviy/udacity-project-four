@@ -5,7 +5,7 @@
 # Step 1:
 # This is your Docker ID/path
 # dockerpath=<>
-dockerpath=oloruntobi/machine-learning-app
+dockerpath=johnsavy/machine-learning-app
 
 
 # Step 2
