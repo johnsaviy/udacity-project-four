@@ -1,4 +1,4 @@
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/OloruntobiOlurombi/project-four/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/OloruntobiOlurombi/project-four/tree/main)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/johnsaviy/udacity-project-four/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/johnsaviy/udacity-project-four/tree/master)
 
 ## Project Overview
 
